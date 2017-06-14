@@ -2,7 +2,7 @@
 Laravel service to upload, update and delete a file storage
 
 
-## Plymorphic relation
+## Polymorphic relation
 
 ``` PHP
 Schema::create('uploads', function (Blueprint $table) {
